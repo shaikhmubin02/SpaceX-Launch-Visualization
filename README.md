@@ -16,6 +16,6 @@ pip install flask requests
 git clone https://github.com/shaikhmubin02/SpaceX-Launch-Visualization.git
 ```
 
-### Contributors
+### Contributor
 
 shaikh mubin

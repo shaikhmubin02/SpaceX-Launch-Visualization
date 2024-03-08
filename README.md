@@ -1,4 +1,4 @@
-# SpaceX-Launch-Visualization
+# SpaceX Launch Visualization
 
 ## Dependencies
 
